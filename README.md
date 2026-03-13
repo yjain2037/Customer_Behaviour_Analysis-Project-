@@ -13,7 +13,7 @@ Report and Presentation: Write a clear project report summarizing your key findi
 
 **This file contains:**
 
-1)Data Import
+1) Data Import
 
 2) Data exploration
 
@@ -41,5 +41,5 @@ Report and Presentation: Write a clear project report summarizing your key findi
 
 13) Create project report
 
-14) Build presentation deck using Gamma AI
+
 
